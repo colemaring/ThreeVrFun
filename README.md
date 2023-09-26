@@ -8,4 +8,7 @@ npm i three <br/>
 npm run dev <br/>
 enable usb debugging on phone <br/>
 brave://inspect/#devices <br/>
-add new rule "localhost:port" and check box <br/>
+add new rule "localhost:port" and check box <br/> <br/>
+
+https://github.com/Sean-Bradley/First-Car-Shooter  <br/>
+https://github.com/Sean-Bradley/Straight-Car <br/>
